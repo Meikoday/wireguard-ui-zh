@@ -20,7 +20,7 @@ docker pull hackerch/wireguard-ui-zh
 - 管理客户端额外信息（姓名、邮箱等）
 - 通过二维码/文件/邮件/Telegram 获取客户端配置
 
-![wireguard-ui 0.3.7](https://user-images.githubusercontent.com/37958026/177041280-e3e7ca16-d4cf-4e95-9920-68af15e780dd.png)
+![wireguard-ui 0.3.7](https://raw.githubusercontent.com/Meikoday/wireguard-ui-zh/refs/heads/master/assets/wgzh.png)
 
 ## 运行 WireGuard-UI
 
