@@ -1,8 +1,17 @@
 ![](https://github.com/ngoduykhanh/wireguard-ui/workflows/wireguard-ui%20build%20release/badge.svg)
 
+本项目基于https://github.com/ngoduykhanh/wireguard-ui/tree/master进行汉化web页面，未进行其他任何处理
+
+
 # wireguard-ui
 
 一个用于管理您的 WireGuard 设置的 Web 用户界面。
+# Docker直接使用安装汉化
+
+```bash
+docker pull hackerch/wireguard-ui-zh
+```
+
 
 ## 功能特点
 
